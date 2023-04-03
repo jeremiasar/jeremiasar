@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500"/>
     <h1>Hi 👋, I'm Jeremías Gómez</h1>
-    <h3>A passionate frontend developer from</h3>
+    <h3>A passionate frontend developer from Argentina</h3>
 </div> 
 
 - 🌱 I’m currently learning **css and js.**
